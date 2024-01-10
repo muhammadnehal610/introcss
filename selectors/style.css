@@ -1,0 +1,23 @@
+* {
+    background-color: lightgrey;
+}
+#main_title {
+    color: brown;
+    background-color: aqua;
+}
+#intro_paragraph {
+    color: coral;
+}
+.nav_link {
+    color: green;
+}
+#content_paragraph {
+    color: coral;
+}
+.color_box {
+    background-color: rgb(249, 249, 26);
+    color: cadetblue;
+}
+.last_paragraph {
+    color:coral;
+}

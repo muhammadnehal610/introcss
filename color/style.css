@@ -1,0 +1,15 @@
+#color_style{
+    width: 100%;
+    background-color: aqua;
+    color: chocolate;
+}
+#intro_paragraph{
+    color: blueviolet;
+}
+#font_style {
+    background-color: cornflowerblue;
+    color: green;
+}
+p {
+    background-color: rgb(115, 255, 80);
+}
